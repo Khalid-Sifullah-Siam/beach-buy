@@ -13,7 +13,8 @@ const ReturnsPolicy = () => {
                     </p>
                 </div>
 
-                {/* Content Card */}
+            
+               {/* Content Card */}
                 <div className="bg-base-100 rounded-lg shadow-lg p-6 md:p-8 space-y-8">
                     
                     {/* Overview */}

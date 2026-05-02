@@ -20,6 +20,7 @@ const EditProfilePage = () => {
     setTimeout(() => setToast({ show: false, message: "", type: "" }), 3000);
   };
 
+  
   if (isPending) {
     return <Loader />;
   }

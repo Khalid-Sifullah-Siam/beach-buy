@@ -86,6 +86,7 @@ const Hero = () => {
       image: slides[4].image,
     },
   ];
+  
 
   return (
     <div className="w-full bg-linear-to-b from-base-200 to-base-100">

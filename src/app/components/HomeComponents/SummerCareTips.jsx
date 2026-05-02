@@ -81,6 +81,7 @@ const SummerCareTips = () => {
                 opacity: 0,
               }}
             >
+              
 
               <div className={`bg-linear-to-r ${tip.color} p-6 text-center`}>
                 <div className="text-5xl mb-2 transition-transform duration-300 group-hover:scale-110">

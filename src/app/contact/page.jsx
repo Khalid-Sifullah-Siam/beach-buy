@@ -15,6 +15,7 @@ const Contact = () => {
           <div className="w-24 h-1 bg-linear-to-r from-amber-500 to-orange-500 mt-6 rounded-full"></div>
         </div>
 
+
         {/* Contact Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
           {/* Contact Form */}

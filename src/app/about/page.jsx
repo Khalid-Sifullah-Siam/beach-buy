@@ -16,6 +16,7 @@ const About = () => {
         </div>
 
         {/* Mission Section */}
+      
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
           <div className="order-2 lg:order-1">
             <h2 className="text-3xl font-bold mb-4">Our Mission</h2>

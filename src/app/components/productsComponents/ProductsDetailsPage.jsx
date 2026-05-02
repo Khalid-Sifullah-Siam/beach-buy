@@ -16,6 +16,7 @@ const ProductDetailsPage = () => {
   const [showToast, setShowToast] = useState(false);
   const [toastMessage, setToastMessage] = useState("");
   
+  
   const product = products.find((p) => p.id === parseInt(id));
   const { data: session, isPending } = useSession();
 

@@ -50,6 +50,7 @@ const PopularProducts = () => {
     );
   };
 
+  
   return (
     <div className="w-full bg-base-100 py-12 md:py-16">
       <div className="md:max-w-10/12 mx-auto px-4">

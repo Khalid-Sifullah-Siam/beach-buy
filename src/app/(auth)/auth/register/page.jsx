@@ -15,6 +15,7 @@ const RegisterPage = () => {
   const [animationData, setAnimationData] = useState(null);
   const router = useRouter();
 
+  
   // Load animation data
   useEffect(() => {
     fetch("/form-registration.json")

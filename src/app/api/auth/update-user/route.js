@@ -16,6 +16,7 @@ export async function POST(request) {
         { status: 401 }
       );
     }
+    
 
     // Update user using Better Auth's updateUser
     const updatedUser = await auth.api.updateUser({

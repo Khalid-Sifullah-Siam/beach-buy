@@ -21,6 +21,7 @@ const Footer = () => {
                             <li>123 Beach Road, Cox's Bazar, Bangladesh</li>
                         </ul>
                     </div>
+                    
 
                     {/* Social Links */}
                     <div>

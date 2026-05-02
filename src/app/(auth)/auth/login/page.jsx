@@ -17,6 +17,7 @@ const LoginPage = () => {
   const [animationData, setAnimationData] = useState(null);
   const router = useRouter();
 
+  
   // Load animation data
   useEffect(() => {
     fetch("/Login.json")

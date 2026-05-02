@@ -68,3 +68,4 @@ export const products = [
     category: "Footwear",
   },
 ];
+
