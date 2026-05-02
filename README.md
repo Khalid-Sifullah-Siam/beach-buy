@@ -24,7 +24,6 @@ A modern summer eCommerce platform where users can explore and purchase seasonal
 - Related products suggestions based on categories
 - Product categories: Accessories, Electronics, Clothing, Footwear
 
-
 ### Authentication System
 
 - Email/Password registration and login with validation
