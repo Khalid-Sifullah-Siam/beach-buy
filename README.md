@@ -11,6 +11,8 @@ A modern summer eCommerce platform where users can explore and purchase seasonal
 ## Live URL
 
 
+
+
 [Beach & Buy](https://beach-buy.vercel.app/)
 
 ## Key Features
