@@ -26,6 +26,7 @@ A modern summer eCommerce platform where users can explore and purchase seasonal
 
 ### Authentication System
 
+
 - Email/Password registration and login with validation
 - Google OAuth integration for social login
 - Protected routes for authenticated users only
