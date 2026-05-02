@@ -6,7 +6,6 @@ A modern summer eCommerce platform where users can explore and purchase seasonal
 
 ## Purpose
 
-
 **Beach & Buy** is a full-stack eCommerce web application built for summer shopping enthusiasts. The platform provides a seamless experience for users to discover trendy summer products, manage their profiles, and securely authenticate using email/password or Google OAuth. The project demonstrates modern web development practices with Next.js, authentication, database integration, and responsive UI design.
 
 ## Live URL
